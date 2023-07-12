@@ -5,7 +5,7 @@ The codes in the current repository are creative, useless, resource-wasteful, an
 ```python
 from time import sleep, time
 
-# add two numbers
+# Add two numbers
 def add(num1, num2):
 	start = time()
 	sleep(num1)
@@ -18,7 +18,12 @@ It is funny and useless but anyway, it works(~~useless shit, right?~~). So I dec
 
 ### Want to contribute?
 #### Hell Yeah!
-You can submit codes in any programming language(C, C++, C#, Java, Python, PHP, Assembly, Brainf*ck, Perl, SQL, HTML(_is not a programming language but Github Linguistics still recognizes them, right?_))! Just they should be useless, resource-wasteful, and hilarious. Of course, it would be much better if it is creative or legendary. Just make pull requests today and contribute to this repository!
+You can submit codes in any programming language(For example, C, C++, C#, Java, Python, PHP, Assembly, Brainf*ck, Perl, SQL, HTML(_is not a programming language but Github Linguistics still recognize them, right?_), etc.)! Just they should be useless, resource-wasteful, and fun. Of course, it would be much better if it is creative ~~or legendary~~. Just make **pull requests** today and contribute to this repository!
+
+- Please leave a simple comment in the code if you can.
+- When you submit a code, please comply with the conventional file name. (ex. camelcase, snake case)
+- When there is no appropriate directory for your language, you can request or manually create the language folder. But please use lowercase when you name a folder. (ex. `Assembly`, `ASSEMBLY`, `assEMbLy`, or `A$$EMBLY`(_I don't know such a thing is possible._) is not acceptable. `assembly` is acceptable.)
+- You can also submit illegible codes like brainf*ck freely. However, please attach more detailed explanations of what this code means or why is it funny. (add more context)
 
 ### Is it good to use the shitty code in your program?
 Generally not, it is just for fun. However... there are still lots of companies that measure the internal personnel's ability as lines of codes written by them per day. In these unfortunate cases, you should be inspired to create some shits that exaggerate code lines. To accomplish those missions, this repository would be helpful.
