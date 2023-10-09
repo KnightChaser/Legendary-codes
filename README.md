@@ -1,5 +1,5 @@
 # legendary-codes
-### The legendary codes that will change your future career
+### The legendary codes that will change your future career FOREVER
 
 The codes in the current repository are creative, useless, resource-wasteful, and hilarious. For example, let's suppose that we are going to add two integers. Then we would write codes like `num1 + num2` and it is general usage. For someone who learns codes, a function named `add()` would be created. However, the following code is also a (creative) way to successfully add two numbers.
 ```python
